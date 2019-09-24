@@ -1,5 +1,7 @@
 Partners with: Desi Pilla, Theodore Fessaras, Melvin Tejada, Catherine Harty
 
+Cat had done the derivation prior to us meeting.
+
 We all met on Saturday and spent the majority of the day in Spencer working on this homework. 
 
 Most of the code was written by Desi although we all worked together through every portion and discussed a lot along the way.
