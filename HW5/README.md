@@ -8,4 +8,6 @@ debug, and talk him through sections we got stuck on.
 Theo, Cat, and Melvin met separately during the same time and we all communicated through GroupMe for the more
 difficult parts.
 
-We all worked together to get eachother caught up on Monday.
+We all worked together to get eachother caught up on Monday and Tuesday.
+
+Extensive conversations were had over GroupMe to help eachother finish up the last part of Homework and Lab.
