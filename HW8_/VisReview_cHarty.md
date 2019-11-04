@@ -1,3 +1,5 @@
+Review by Catherine Harty
+
 CLARITY: The plot is pretty easy to read. Some of the points, however, are covered up by others. 
 The axes all have clear units and the title is staight forward.
 
